@@ -167,7 +167,7 @@ Silakan gunakan, modifikasi, dan distribusikan dengan mencantumkan atribusi yang
 ---
 
 ## 👨‍💻 Penulis
-**Nama:** Ken Narendra Ekamartha
+**Nama:** Ken Narendra Ekamartha  
 **Peran:** Junior Programmer & Cyber Security Enthusiast  
 **Institusi:** PT Tekno Konek Solusi  
 
